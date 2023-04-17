@@ -1,0 +1,21 @@
+Brief 1 BEST CASE:
+
+Use a data set relevant to you in your BAU that you think you may be able to predict...
+
+Examples in CBRE may include;
+
+- Predict occupancy based on some criteria e.g Day of the week, Areasqft, season
+- Predict building value based on some criteria e.g size, local area, use
+- Predict whether a property will go up or down in value based on criteria.
+
+#################################################################################################################
+
+Brief 2 Health insurance:
+
+Create a model that can predict a person's health insurance cost based on the data provided in insurance.csv
+
+#################################################################################################################
+
+Brief 3 Customer churn:
+
+Creat a model that predicts if a customer is likely to leave the business using Bank Customer Churn Prediction.csv

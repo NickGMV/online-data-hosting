@@ -1,0 +1,7 @@
+Use the cars_details data set to build a predictive model
+
+- Explore the data (cleaning where necessary)
+- Build a model that predicts sell price.
+- Create new features if you feel this is appropriate. 
+- Once you have a model you are satisfied with, write a short abstract (250 words or less)
+  which explains to a non-technical stakeholders (e.g. customer) how the model works and how reliable it is. 

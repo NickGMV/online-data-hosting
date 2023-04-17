@@ -1,0 +1,7 @@
+Buid a model to predict if a loan will be approved using the loans dataset
+
+- Clean and prepare the data. 
+- Build a model that will predict if a loan is approved
+- Evaluate and interpret the model. 
+- Explain your model to a non-technical stakeholder what most affects loan approvals, 
+  and how reliable your model is
